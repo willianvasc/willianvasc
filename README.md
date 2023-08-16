@@ -7,9 +7,8 @@ Me chamo Willian e estou me formando em engenharia de software, abaixo há as te
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=willianvasc&show_icons=true&theme=transparent"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianvasc&layout=compact&langs_count=16&theme=transparent"/>
 </div>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=willianvasc&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvasc&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
