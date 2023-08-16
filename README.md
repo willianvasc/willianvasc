@@ -12,11 +12,11 @@ Me chamo Willian e estou me formando em engenharia de software, abaixo há as te
     <a href = "mailto: contato.wvasconcelos@gmail.com">
       <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/raw/main/linkedin.svg">
+    <a href = "https://www.linkedin.com/in/willian-gvasconcelos/">
+      <img width="25" src="https://raw.githubusercontent.com/LuigiGf/raw/main/linkedin.svg">
     </a>
-    <a href = "[https://www.instagram.com/devparadev/](https://www.instagram.com/wgvasconcelos/)">
-      <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/raw/main/instagram.png">
+    <a href = "https://www.instagram.com/wgvasconcelos/">
+      <img width="25" src="https://raw.githubusercontent.com/LuigiGf/raw/main/instagram.png">
     </a>
 </div>
 
