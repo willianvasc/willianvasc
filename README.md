@@ -2,17 +2,17 @@
 
 
 
+<h1>Willian Vasconceos</h1>
 
-Me chamo Willian e estou me formando em engenharia de software, abaixo há as tecnologias que trabalho e que tenho experiência.
 
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvasc&bg_color=OD11117&color=00BFFF&line=008B8B&point=48D1CC&area=true&hide_border=true)
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=willianvasc&show_icons=true&theme=transparent"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianvasc&layout=compact&langs_count=16&theme=transparent"/>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvasc&bg_color=OD11117&color=00BFFF&line=008B8B&point=48D1CC&area=true&hide_border=true)]
-
 
 <br>
   <h1 align="left">Redes Sociais</h1>
@@ -28,5 +28,12 @@ Me chamo Willian e estou me formando em engenharia de software, abaixo há as te
 </div>
 
 
-  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{willianvasc}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
 
