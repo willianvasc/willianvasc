@@ -10,16 +10,13 @@ Me chamo Willian e estou me formando em engenharia de software, abaixo há as te
 <br>
   <h1 align="left">Redes Sociais</h1>
     <a href = "mailto: contato.wvasconcelos@gmail.com">
-      <img width="30" src="https://icons8.com.br/icon/37246/gmail">
+      <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/raw/main/linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
+    <a href = "[https://www.instagram.com/devparadev/](https://www.instagram.com/wgvasconcelos/)">
+      <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
 </div>
 
