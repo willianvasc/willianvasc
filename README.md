@@ -8,7 +8,7 @@ Me chamo Willian e estou me formando em engenharia de software, abaixo há as te
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianvasc&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvasc&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvasc&bg_color=OD11117&color=00BFFF&line=008B8B&point=48D1CC&area=true&hide_border=true)]
 
 
 <br>
