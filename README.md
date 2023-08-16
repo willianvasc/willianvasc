@@ -39,4 +39,4 @@ Me chamo Willian e estou me formando em engenharia de software, abaixo há as te
     </a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
