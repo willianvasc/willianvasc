@@ -7,6 +7,11 @@ Me chamo Willian e estou me formando em engenharia de software, abaixo há as te
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=willianvasc&show_icons=true&theme=transparent"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianvasc&layout=compact&langs_count=16&theme=transparent"/>
 </div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=willianvasc&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
 <br>
   <h1 align="left">Redes Sociais</h1>
     <a href = "mailto: contato.wvasconcelos@gmail.com">
