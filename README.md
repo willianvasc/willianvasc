@@ -8,7 +8,20 @@ Me chamo Willian e estou me formando em engenharia de software, abaixo há as te
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianvasc&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 <br>
-
+  <h1 align="left">Redes Sociais</h1>
+    <a href = "mailto: contato.wvasconcelos@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+      <img width="35" src="youtube.svg">
+    </a>
+    <a href = "https://www.instagram.com/devparadev/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -24,19 +37,6 @@ Me chamo Willian e estou me formando em engenharia de software, abaixo há as te
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: contato.wvasconcelos@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
+
   
 
