@@ -2,7 +2,7 @@
 
 
 
-<h1>Willian Vasconceos</h1>
+<h1>Willian Vasconcelos</h1>
 
 <h4>Sobre mim:</h4>
 <p> trabalho com as tecnologias PHP, JavaScript, CSS, Bootstrap e SQL. Atualmente, estou cursando Engenharia de Software e tenho uma grande paixão por programação e desenvolvimento de software. Como profissional, sou conhecido por ser proativo, comunicativo e compreensível, o que me permite trabalhar de forma eficaz com colegas de equipe e clientes.
