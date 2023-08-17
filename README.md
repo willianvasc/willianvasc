@@ -19,7 +19,6 @@ Tenho experiência em projetos que envolvem desenvolvimento de sites e aplicativ
       <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/instagram.png">
     </a>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvasc&bg_color=OD11117&color=00BFFF&line=008B8B&point=48D1CC&area=true&hide_border=true)
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=willianvasc&show_icons=true&theme=transparent"/>
