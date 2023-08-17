@@ -20,6 +20,7 @@ Tenho experiência em projetos que envolvem desenvolvimento de sites e aplicativ
     </a>
 
 <div>
+  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvasc&bg_color=OD11117&color=00BFFF&line=008B8B&point=48D1CC&area=true&hide_border=true)
 </div>
 
 <br>
