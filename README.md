@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 
 
@@ -46,5 +46,5 @@ Tenho experiência em projetos que envolvem desenvolvimento de sites e aplicativ
     </a>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
