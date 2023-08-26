@@ -25,6 +25,8 @@ Tenho experiência em projetos que envolvem desenvolvimento de sites e aplicativ
 <br>
 
 </div>
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=willianvasc&show_icons=true&theme=dracula&count_private=true)
+
 
 
   <div align="center">
