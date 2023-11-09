@@ -28,11 +28,7 @@ Tenho experiência em projetos que envolvem desenvolvimento de sites e aplicativ
 
 ![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=willianvasc&show_icons=true&theme=dracula&count_private=true)
 
-  <div align="center">
-<br><p align="centre"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{willianvasc}/count.svg" /></p> 
-<br>
-</div>
+
 
   <h4 align="left">Redes Sociais</h4>
     <a href = "mailto: contato.wvasconcelos@gmail.com">
@@ -47,4 +43,8 @@ Tenho experiência em projetos que envolvem desenvolvimento de sites e aplicativ
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
-
+  <div align="center">
+<br><p align="centre"><b>Contador de visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{willianvasc}/count.svg" /></p> 
+<br>
+</div>
