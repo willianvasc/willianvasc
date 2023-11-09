@@ -2,7 +2,8 @@
 
 
 
-## Willian Vasconcelos
+## Willian Vasconcelos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: contato.wvasconcelos@gmail.com"> <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/gmail.svg"> </a><a href = "https://www.linkedin.com/in/willian-gvasconcelos/"> <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/linkedin.svg"> </a><a href="https://www.instagram.com/wgvasconcelos/"><img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/instagram.png"> </a>
+
 
 <h4>Sobre mim:</h4>
 <p> trabalho com as tecnologias PHP, JavaScript, CSS, Bootstrap e SQL. Atualmente, estou cursando Engenharia de Software e tenho uma grande paixão por programação e desenvolvimento de software. Como profissional, sou conhecido por ser proativo, comunicativo e compreensível, o que me permite trabalhar de forma eficaz com colegas de equipe e clientes.
@@ -12,7 +13,7 @@ Tenho experiência em projetos que envolvem desenvolvimento de sites e aplicativ
 
 </div>
 
-
+![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=willianvasc&show_icons=true&theme=dracula&count_private=true)
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block">
@@ -26,20 +27,11 @@ Tenho experiência em projetos que envolvem desenvolvimento de sites e aplicativ
 </div><br/>
 
 
-![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=willianvasc&show_icons=true&theme=dracula&count_private=true)
 
 
 
-  <h4 align="left">Redes Sociais</h4>
-    <a href = "mailto: contato.wvasconcelos@gmail.com">
-      <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/willian-gvasconcelos/">
-      <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/wgvasconcelos/">
-      <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/instagram.png">
-    </a>
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
