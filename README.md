@@ -2,7 +2,7 @@
 
 
 
-## Willian Vasconcelos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: contato.wvasconcelos@gmail.com"> <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/gmail.svg"> </a><a href = "https://www.linkedin.com/in/willian-gvasconcelos/"> <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/linkedin.svg"> </a><a href="https://www.instagram.com/wgvasconcelos/"><img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/instagram.png"> </a>
+## Willian Vasconcelos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: contato.wvasconcelos@gmail.com"> <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/gmail.svg"> </a><a href = "https://www.linkedin.com/in/willian-gvasconcelos/"> <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/linkedin.svg"> </a>
 
 
 <h4>Sobre mim:</h4>
