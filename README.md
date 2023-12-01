@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002d56&height=120&section=header"/>
 
 
 
@@ -34,7 +34,7 @@ Tenho experiência em projetos que envolvem desenvolvimento de sites e aplicativ
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002d56&height=120&section=footer"/>
   <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{willianvasc}/count.svg" /></p> 
