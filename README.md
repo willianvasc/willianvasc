@@ -5,10 +5,9 @@
 ## Willian Vasconcelos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: contato.wvasconcelos@gmail.com"> <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/gmail.svg"> </a><a href = "https://www.linkedin.com/in/willian-gvasconcelos/"> <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/linkedin.svg"> </a>
 
 
-<h4>Sobre mim:</h4>
-<p>Trabalho com as tecnologias PHP, Laravel,  NODE.JS, Typescript, React.js JavaScript, CSS, Bootstrap e SQL. Tenho conhecimentos em AWS, DOCKER e CLOUDFLARE. Atualmente, sou formado em Engenharia de Software e paralelo a isso, curso física. Como profissional, sou conhecido por ser proativo, comunicativo e compreensível, o que me permite trabalhar de forma eficaz com colegas de equipe e clientes.
-
-Tenho experiência em projetos que envolvem desenvolvimento de sites e aplicativos web, desde a criação da arquitetura até a implementação de recursos avançados de banco de dados e integração com outras tecnologias.</p>
+<h4>About Me:</h4>
+<p>I work with technologies such as PHP, Laravel, NODE.JS, Typescript, React.js, JavaScript, CSS, Bootstrap, and SQL. I have knowledge in AWS, DOCKER, and CLOUDFLARE. Currently, I hold a degree in Software Engineering and am also studying Physics. As a professional, I am known for being proactive, communicative, and understanding, which allows me to work effectively with team members and clients.
+I have experience in projects involving the development of websites and web applications, from creating the architecture to implementing advanced database features and integrating with other technologies.</p>
 
 
 </div>
